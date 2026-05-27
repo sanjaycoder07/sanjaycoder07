@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Pal</h1>
 <h3 align="center">A passionate coder from West Bengal, India</h3>
 
-- 🌱 I’m currently learning PYTHON,JAVA,PHP
+- 🌱 **I’m currently learning Python, JAVA , PHP.**
 
 - 💬 Ask me about **Java, C, C++ , Python , DSA , OS etc.**
 
